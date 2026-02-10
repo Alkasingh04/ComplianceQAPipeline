@@ -1,6 +1,8 @@
 # ComplianceQAPipeline
 
 
+# Compliance QA Pipeline
+
 ![Project Overview](docs/cover.png)
 
 ## Overview
@@ -44,7 +46,10 @@ ComplianceQAPipeline/
 ├── README.md
 └── .gitignore
 
-Author
 
-Alka Singh
+
+---
+
+## Author
+**Alka Singh**  
 Data Scientist | Machine Learning | NLP
